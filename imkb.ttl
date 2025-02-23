@@ -1,0 +1,287 @@
+@prefix imkb: <http://example.org/imkb/> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+imkb:Playlist_trap a imkb:Playlist ;
+    imkb:hasName "trap" .
+imkb:Song_kendrick_lamar_backseat_freestyle a imkb:Song ;
+    imkb:hasTitle "Backseat Freestyle" ;
+    imkb:hasArtist imkb:Artist_kendrick_lamar .
+imkb:Artist_kendrick_lamar a imkb:Artist ;
+    imkb:hasName "Kendrick Lamar" ;
+    imkb:linkedTo <http://www.wikidata.org/entity/Q130798> .
+imkb:Playlist_trap imkb:contains imkb:Song_kendrick_lamar_backseat_freestyle .
+imkb:Playlist_trap a imkb:Playlist ;
+    imkb:hasName "trap" .
+imkb:Song_yung_lean_kyoto a imkb:Song ;
+    imkb:hasTitle "Kyoto" ;
+    imkb:hasArtist imkb:Artist_yung_lean .
+imkb:Artist_yung_lean a imkb:Artist ;
+    imkb:hasName "Yung Lean" ;
+    imkb:linkedTo <http://www.wikidata.org/entity/Q15281410> .
+imkb:Playlist_trap imkb:contains imkb:Song_yung_lean_kyoto .
+imkb:Playlist_trap a imkb:Playlist ;
+    imkb:hasName "trap" .
+imkb:Song_yung_lean_yoshi_city a imkb:Song ;
+    imkb:hasTitle "Yoshi City" ;
+    imkb:hasArtist imkb:Artist_yung_lean .
+imkb:Artist_yung_lean a imkb:Artist ;
+    imkb:hasName "Yung Lean" .
+imkb:Playlist_trap imkb:contains imkb:Song_yung_lean_yoshi_city .
+imkb:Playlist_trap a imkb:Playlist ;
+    imkb:hasName "trap" .
+imkb:Song_aap_rocky_lord_pretty_flacko_jodye_2_lpfj2 a imkb:Song ;
+    imkb:hasTitle "Lord Pretty Flacko Jodye 2 (LPFJ2)" ;
+    imkb:hasArtist imkb:Artist_aap_rocky .
+imkb:Artist_aap_rocky a imkb:Artist ;
+    imkb:hasName "A$AP Rocky" ;
+    imkb:linkedTo <http://www.wikidata.org/entity/Q129910> .
+imkb:Playlist_trap imkb:contains imkb:Song_aap_rocky_lord_pretty_flacko_jodye_2_lpfj2 .
+imkb:Playlist_trap a imkb:Playlist ;
+    imkb:hasName "trap" .
+imkb:Song_kendrick_lamar_money_trees a imkb:Song ;
+    imkb:hasTitle "Money Trees" ;
+    imkb:hasArtist imkb:Artist_kendrick_lamar .
+imkb:Artist_kendrick_lamar a imkb:Artist ;
+    imkb:hasName "Kendrick Lamar" ;
+    imkb:linkedTo <http://www.wikidata.org/entity/Q130798> .
+imkb:Playlist_trap imkb:contains imkb:Song_kendrick_lamar_money_trees .
+imkb:Playlist_workout a imkb:Playlist ;
+    imkb:hasName "Workout" .
+imkb:Song_the_white_stripes_seven_nation_army a imkb:Song ;
+    imkb:hasTitle "Seven Nation Army" ;
+    imkb:hasArtist imkb:Artist_the_white_stripes .
+imkb:Artist_the_white_stripes a imkb:Artist ;
+    imkb:hasName "The White Stripes" ;
+    imkb:linkedTo <http://www.wikidata.org/entity/Q522365> .
+imkb:Playlist_workout imkb:contains imkb:Song_the_white_stripes_seven_nation_army .
+imkb:Playlist_workout a imkb:Playlist ;
+    imkb:hasName "Workout" .
+imkb:Song_eric_johnson_cliffs_of_dover a imkb:Song ;
+    imkb:hasTitle "Cliffs Of Dover" ;
+    imkb:hasArtist imkb:Artist_eric_johnson .
+imkb:Artist_eric_johnson a imkb:Artist ;
+    imkb:hasName "Eric Johnson" ;
+    imkb:linkedTo <http://www.wikidata.org/entity/Q311580> .
+imkb:Playlist_workout imkb:contains imkb:Song_eric_johnson_cliffs_of_dover .
+imkb:Playlist_workout a imkb:Playlist ;
+    imkb:hasName "Workout" .
+imkb:Song_blink_182_feeling_this a imkb:Song ;
+    imkb:hasTitle "Feeling This" ;
+    imkb:hasArtist imkb:Artist_blink_182 .
+imkb:Artist_blink_182 a imkb:Artist ;
+    imkb:hasName "blink-182" .
+imkb:Playlist_workout imkb:contains imkb:Song_blink_182_feeling_this .
+imkb:Playlist_workout a imkb:Playlist ;
+    imkb:hasName "Workout" .
+imkb:Song_david_guetta_titanium_feat_sia_feat_sia a imkb:Song ;
+    imkb:hasTitle "Titanium (feat. Sia) - feat. Sia" ;
+    imkb:hasArtist imkb:Artist_david_guetta .
+imkb:Artist_david_guetta a imkb:Artist ;
+    imkb:hasName "David Guetta" ;
+    imkb:linkedTo <http://www.wikidata.org/entity/Q8298> .
+imkb:Playlist_workout imkb:contains imkb:Song_david_guetta_titanium_feat_sia_feat_sia .
+imkb:Playlist_workout a imkb:Playlist ;
+    imkb:hasName "Workout" .
+imkb:Song_rise_against_prayer_of_the_refugee a imkb:Song ;
+    imkb:hasTitle "Prayer Of The Refugee" ;
+    imkb:hasArtist imkb:Artist_rise_against .
+imkb:Artist_rise_against a imkb:Artist ;
+    imkb:hasName "Rise Against" .
+imkb:Playlist_workout imkb:contains imkb:Song_rise_against_prayer_of_the_refugee .
+imkb:Playlist_workout a imkb:Playlist ;
+    imkb:hasName "Workout" .
+imkb:Song_childish_gambino_v_3005 a imkb:Song ;
+    imkb:hasTitle "V. 3005" ;
+    imkb:hasArtist imkb:Artist_childish_gambino .
+imkb:Artist_childish_gambino a imkb:Artist ;
+    imkb:hasName "Childish Gambino" .
+imkb:Playlist_workout imkb:contains imkb:Song_childish_gambino_v_3005 .
+imkb:Playlist_spanish_vibes a imkb:Playlist ;
+    imkb:hasName "Spanish Vibes" .
+imkb:Song_marc_anthony_vivir_mi_vida a imkb:Song ;
+    imkb:hasTitle "Vivir Mi Vida" ;
+    imkb:hasArtist imkb:Artist_marc_anthony .
+imkb:Artist_marc_anthony a imkb:Artist ;
+    imkb:hasName "Marc Anthony" ;
+    imkb:linkedTo <http://www.wikidata.org/entity/Q3287757> .
+imkb:Playlist_spanish_vibes imkb:contains imkb:Song_marc_anthony_vivir_mi_vida .
+imkb:Playlist_spanish_vibes a imkb:Playlist ;
+    imkb:hasName "Spanish Vibes" .
+imkb:Song_nicky_jam_travesuras a imkb:Song ;
+    imkb:hasTitle "Travesuras" ;
+    imkb:hasArtist imkb:Artist_nicky_jam .
+imkb:Artist_nicky_jam a imkb:Artist ;
+    imkb:hasName "Nicky Jam" ;
+    imkb:linkedTo <http://www.wikidata.org/entity/Q1374560> .
+imkb:Playlist_spanish_vibes imkb:contains imkb:Song_nicky_jam_travesuras .
+imkb:Playlist_spanish_vibes a imkb:Playlist ;
+    imkb:hasName "Spanish Vibes" .
+imkb:Song_nicky_jam_piensas_en_mí a imkb:Song ;
+    imkb:hasTitle "Piensas en Mí" ;
+    imkb:hasArtist imkb:Artist_nicky_jam .
+imkb:Artist_nicky_jam a imkb:Artist ;
+    imkb:hasName "Nicky Jam" ;
+    imkb:linkedTo <http://www.wikidata.org/entity/Q1374560> .
+imkb:Playlist_spanish_vibes imkb:contains imkb:Song_nicky_jam_piensas_en_mí .
+imkb:Playlist_spanish_vibes a imkb:Playlist ;
+    imkb:hasName "Spanish Vibes" .
+imkb:Song_enrique_iglesias_bailando_english_version a imkb:Song ;
+    imkb:hasTitle "Bailando - English Version" ;
+    imkb:hasArtist imkb:Artist_enrique_iglesias .
+imkb:Artist_enrique_iglesias a imkb:Artist ;
+    imkb:hasName "Enrique Iglesias" ;
+    imkb:linkedTo <http://www.wikidata.org/entity/Q1954529> .
+imkb:Playlist_spanish_vibes imkb:contains imkb:Song_enrique_iglesias_bailando_english_version .
+imkb:Playlist_spanish_vibes a imkb:Playlist ;
+    imkb:hasName "Spanish Vibes" .
+imkb:Song_michel_teló_ai_se_eu_te_pego_nossa_nossa a imkb:Song ;
+    imkb:hasTitle "Ai Se Eu Te Pego (Nossa Nossa)" ;
+    imkb:hasArtist imkb:Artist_michel_teló .
+imkb:Artist_michel_teló a imkb:Artist ;
+    imkb:hasName "Michel Teló" ;
+    imkb:linkedTo <http://www.wikidata.org/entity/Q488387> .
+imkb:Playlist_spanish_vibes imkb:contains imkb:Song_michel_teló_ai_se_eu_te_pego_nossa_nossa .
+imkb:Playlist_spanish_vibes a imkb:Playlist ;
+    imkb:hasName "Spanish Vibes" .
+imkb:Song_gusttavo_lima_balada_tchê_tcherere_tchê_tchê a imkb:Song ;
+    imkb:hasTitle "Balada (Tchê Tcherere Tchê Tchê)" ;
+    imkb:hasArtist imkb:Artist_gusttavo_lima .
+imkb:Artist_gusttavo_lima a imkb:Artist ;
+    imkb:hasName "Gusttavo Lima" ;
+    imkb:linkedTo <http://www.wikidata.org/entity/Q380821> .
+imkb:Playlist_spanish_vibes imkb:contains imkb:Song_gusttavo_lima_balada_tchê_tcherere_tchê_tchê .
+imkb:Playlist_spanish_vibes a imkb:Playlist ;
+    imkb:hasName "Spanish Vibes" .
+imkb:Song_alex_sensation_que_va a imkb:Song ;
+    imkb:hasTitle "Que Va" ;
+    imkb:hasArtist imkb:Artist_alex_sensation .
+imkb:Artist_alex_sensation a imkb:Artist ;
+    imkb:hasName "Alex Sensation" .
+imkb:Playlist_spanish_vibes imkb:contains imkb:Song_alex_sensation_que_va .
+imkb:Playlist_sleep a imkb:Playlist ;
+    imkb:hasName "sleep" .
+imkb:Song_bon_iver_skinny_love a imkb:Song ;
+    imkb:hasTitle "Skinny Love" ;
+    imkb:hasArtist imkb:Artist_bon_iver .
+imkb:Artist_bon_iver a imkb:Artist ;
+    imkb:hasName "Bon Iver" ;
+    imkb:linkedTo <http://www.wikidata.org/entity/Q2636653> .
+imkb:Playlist_sleep imkb:contains imkb:Song_bon_iver_skinny_love .
+imkb:Playlist_sleep a imkb:Playlist ;
+    imkb:hasName "sleep" .
+imkb:Song_josé_gonzález_heartbeats a imkb:Song ;
+    imkb:hasTitle "Heartbeats" ;
+    imkb:hasArtist imkb:Artist_josé_gonzález .
+imkb:Artist_josé_gonzález a imkb:Artist ;
+    imkb:hasName "José González" ;
+    imkb:linkedTo <http://www.wikidata.org/entity/Q315107> .
+imkb:Playlist_sleep imkb:contains imkb:Song_josé_gonzález_heartbeats .
+imkb:Playlist_sleep a imkb:Playlist ;
+    imkb:hasName "sleep" .
+imkb:Song_the_middle_east_blood a imkb:Song ;
+    imkb:hasTitle "Blood" ;
+    imkb:hasArtist imkb:Artist_the_middle_east .
+imkb:Artist_the_middle_east a imkb:Artist ;
+    imkb:hasName "The Middle East" ;
+    imkb:linkedTo <http://www.wikidata.org/entity/Q7751277> .
+imkb:Playlist_sleep imkb:contains imkb:Song_the_middle_east_blood .
+imkb:Playlist_sleep a imkb:Playlist ;
+    imkb:hasName "sleep" .
+imkb:Song_iron_wine_flightless_birdamerican_mouth a imkb:Song ;
+    imkb:hasTitle "Flightless Bird/American Mouth" ;
+    imkb:hasArtist imkb:Artist_iron_wine .
+imkb:Artist_iron_wine a imkb:Artist ;
+    imkb:hasName "Iron & Wine" ;
+    imkb:linkedTo <http://www.wikidata.org/entity/Q361881> .
+imkb:Playlist_sleep imkb:contains imkb:Song_iron_wine_flightless_birdamerican_mouth .
+imkb:Playlist_dance a imkb:Playlist ;
+    imkb:hasName "Dance" .
+imkb:Song_felix_jaehn_bonfire a imkb:Song ;
+    imkb:hasTitle "Bonfire" ;
+    imkb:hasArtist imkb:Artist_felix_jaehn .
+imkb:Artist_felix_jaehn a imkb:Artist ;
+    imkb:hasName "Felix Jaehn" ;
+    imkb:linkedTo <http://www.wikidata.org/entity/Q18943660> .
+imkb:Playlist_dance imkb:contains imkb:Song_felix_jaehn_bonfire .
+imkb:Playlist_dance a imkb:Playlist ;
+    imkb:hasName "Dance" .
+imkb:Song_tritonal_blackout_radio_edit a imkb:Song ;
+    imkb:hasTitle "Blackout - Radio Edit" ;
+    imkb:hasArtist imkb:Artist_tritonal .
+imkb:Artist_tritonal a imkb:Artist ;
+    imkb:hasName "Tritonal" ;
+    imkb:linkedTo <http://www.wikidata.org/entity/Q4051786> .
+imkb:Playlist_dance imkb:contains imkb:Song_tritonal_blackout_radio_edit .
+imkb:Playlist_dance a imkb:Playlist ;
+    imkb:hasName "Dance" .
+imkb:Song_chris_brown_beautiful_people_radio_edit a imkb:Song ;
+    imkb:hasTitle "Beautiful People - Radio Edit" ;
+    imkb:hasArtist imkb:Artist_chris_brown .
+imkb:Artist_chris_brown a imkb:Artist ;
+    imkb:hasName "Chris Brown" .
+imkb:Playlist_dance imkb:contains imkb:Song_chris_brown_beautiful_people_radio_edit .
+imkb:Playlist_dance a imkb:Playlist ;
+    imkb:hasName "Dance" .
+imkb:Song_deorro_five_more_hours_deorro_x_chris_brown a imkb:Song ;
+    imkb:hasTitle "Five More Hours - Deorro x Chris Brown" ;
+    imkb:hasArtist imkb:Artist_deorro .
+imkb:Artist_deorro a imkb:Artist ;
+    imkb:hasName "Deorro" .
+imkb:Playlist_dance imkb:contains imkb:Song_deorro_five_more_hours_deorro_x_chris_brown .
+imkb:Playlist_dance a imkb:Playlist ;
+    imkb:hasName "Dance" .
+imkb:Song_major_lazer_light_it_up_feat_nyla_fuse_odg_remix a imkb:Song ;
+    imkb:hasTitle "Light It Up (feat. Nyla & Fuse ODG) - Remix" ;
+    imkb:hasArtist imkb:Artist_major_lazer .
+imkb:Artist_major_lazer a imkb:Artist ;
+    imkb:hasName "Major Lazer" ;
+    imkb:linkedTo <http://www.wikidata.org/entity/Q2604214> .
+imkb:Playlist_dance imkb:contains imkb:Song_major_lazer_light_it_up_feat_nyla_fuse_odg_remix .
+imkb:Playlist_dance a imkb:Playlist ;
+    imkb:hasName "Dance" .
+imkb:Song_martin_solveig_intoxicated_new_radio_mix a imkb:Song ;
+    imkb:hasTitle "Intoxicated - New Radio Mix" ;
+    imkb:hasArtist imkb:Artist_martin_solveig .
+imkb:Artist_martin_solveig a imkb:Artist ;
+    imkb:hasName "Martin Solveig" ;
+    imkb:linkedTo <http://www.wikidata.org/entity/Q359066> .
+imkb:Playlist_dance imkb:contains imkb:Song_martin_solveig_intoxicated_new_radio_mix .
+imkb:Playlist_dance a imkb:Playlist ;
+    imkb:hasName "Dance" .
+imkb:Song_jonas_blue_perfect_strangers a imkb:Song ;
+    imkb:hasTitle "Perfect Strangers" ;
+    imkb:hasArtist imkb:Artist_jonas_blue .
+imkb:Artist_jonas_blue a imkb:Artist ;
+    imkb:hasName "Jonas Blue" ;
+    imkb:linkedTo <http://www.wikidata.org/entity/Q22246459> .
+imkb:Playlist_dance imkb:contains imkb:Song_jonas_blue_perfect_strangers .
+imkb:Playlist_dance a imkb:Playlist ;
+    imkb:hasName "Dance" .
+imkb:Song_kungs_this_girl_kungs_vs_cookin_on_3_burners_kungs_vs_cookin_on_3_burners a imkb:Song ;
+    imkb:hasTitle "This Girl (Kungs Vs. Cookin' On 3 Burners) - Kungs Vs. Cookin' On 3 Burners" ;
+    imkb:hasArtist imkb:Artist_kungs .
+imkb:Artist_kungs a imkb:Artist ;
+    imkb:hasName "Kungs" ;
+    imkb:linkedTo <http://www.wikidata.org/entity/Q23826199> .
+imkb:Playlist_dance imkb:contains imkb:Song_kungs_this_girl_kungs_vs_cookin_on_3_burners_kungs_vs_cookin_on_3_burners .
+imkb:Playlist_dance a imkb:Playlist ;
+    imkb:hasName "Dance" .
+imkb:Song_diplo_be_right_there a imkb:Song ;
+    imkb:hasTitle "Be Right There" ;
+    imkb:hasArtist imkb:Artist_diplo .
+imkb:Artist_diplo a imkb:Artist ;
+    imkb:hasName "Diplo" ;
+    imkb:linkedTo <http://www.wikidata.org/entity/Q111668556> .
+imkb:Playlist_dance imkb:contains imkb:Song_diplo_be_right_there .
+imkb:Playlist_dance a imkb:Playlist ;
+    imkb:hasName "Dance" .
+imkb:Song_david_guetta_bad_feat_vassy_radio_edit a imkb:Song ;
+    imkb:hasTitle "Bad (feat. Vassy) - Radio Edit" ;
+    imkb:hasArtist imkb:Artist_david_guetta .
+imkb:Artist_david_guetta a imkb:Artist ;
+    imkb:hasName "David Guetta" ;
+    imkb:linkedTo <http://www.wikidata.org/entity/Q8298> .
+imkb:Playlist_dance imkb:contains imkb:Song_david_guetta_bad_feat_vassy_radio_edit .

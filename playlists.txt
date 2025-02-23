@@ -1,0 +1,37 @@
+Playlist: trap
+  - Artist: Kendrick Lamar, Track: Backseat Freestyle
+  - Artist: Yung Lean, Track: Kyoto
+  - Artist: Yung Lean, Track: Yoshi City
+  - Artist: A$AP Rocky, Track: Lord Pretty Flacko Jodye 2 (LPFJ2)
+  - Artist: Kendrick Lamar, Track: Money Trees
+Playlist: Workout
+  - Artist: The White Stripes, Track: Seven Nation Army
+  - Artist: Eric Johnson, Track: Cliffs Of Dover
+  - Artist: blink-182, Track: Feeling This
+  - Artist: David Guetta, Track: Titanium (feat. Sia) - feat. Sia
+  - Artist: Rise Against, Track: Prayer Of The Refugee
+  - Artist: Childish Gambino, Track: V. 3005
+Playlist: Spanish Vibes
+  - Artist: Marc Anthony, Track: Vivir Mi Vida
+  - Artist: Nicky Jam, Track: Travesuras
+  - Artist: Nicky Jam, Track: Piensas en Mí
+  - Artist: Enrique Iglesias, Track: Bailando - English Version
+  - Artist: Michel Teló, Track: Ai Se Eu Te Pego (Nossa Nossa)
+  - Artist: Gusttavo Lima, Track: Balada (Tchê Tcherere Tchê Tchê)
+  - Artist: Alex Sensation, Track: Que Va
+Playlist: sleep
+  - Artist: Bon Iver, Track: Skinny Love
+  - Artist: José González, Track: Heartbeats
+  - Artist: The Middle East, Track: Blood
+  - Artist: Iron & Wine, Track: Flightless Bird/American Mouth
+Playlist: Dance
+  - Artist: Felix Jaehn, Track: Bonfire
+  - Artist: Tritonal, Track: Blackout - Radio Edit
+  - Artist: Chris Brown, Track: Beautiful People - Radio Edit
+  - Artist: Deorro, Track: Five More Hours - Deorro x Chris Brown
+  - Artist: Major Lazer, Track: Light It Up (feat. Nyla & Fuse ODG) - Remix
+  - Artist: Martin Solveig, Track: Intoxicated - New Radio Mix
+  - Artist: Jonas Blue, Track: Perfect Strangers
+  - Artist: Kungs, Track: This Girl (Kungs Vs. Cookin' On 3 Burners) - Kungs Vs. Cookin' On 3 Burners
+  - Artist: Diplo, Track: Be Right There
+  - Artist: David Guetta, Track: Bad (feat. Vassy) - Radio Edit
